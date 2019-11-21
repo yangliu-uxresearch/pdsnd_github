@@ -235,7 +235,7 @@ def display_data(df):
     #Get user input for checking rows 1 to 5 
     while True: 
         user_input = input("Now you can also check the raw data on individual trips!\n"
-                           "Would you like to check out some raw data? Please enter: Yes, or No.\n")
+                           "Would you like to check out some raw data? Enter Yes, or No.\n")
         if user_input.title() not in ("Yes", "Y", "Ye", "No", "Not", "N"):  
             print ("Sorry please try again. Pay attention to the spelling.")
             continue 
@@ -253,7 +253,7 @@ def display_data(df):
             print("_"*40)
             #Get user input for checking next 5 rows 
             while True: 
-                user_prompt = input("Would you like to see more data? Please enter: Yes, or No.\n")
+                user_prompt = input("Would you like to see more data? Enter Yes, or No.\n")
                 if user_prompt.title() not in ("Yes", "Y", "Ye", "No", "Not", "N"):  
                     print ("Sorry please try again. Pay attention to the spelling.")
                     continue 
