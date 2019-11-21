@@ -181,6 +181,7 @@ def trip_duration_stats(df):
     print("_"*40) 
 
 # Step 6. Define user_stats 
+# Note: for Washington, no data for gender and year of bith.
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
