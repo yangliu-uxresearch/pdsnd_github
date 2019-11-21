@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+11/21/2019, Github project (project 3) repository for PDSND created 
+11/21/2019, README.md created
 
-### Project Title
-Replace the Project Title
+### Github project (project 3) repository for PDSND
 
 ### Description
-Describe what your project is about and what it does
+This project creats a repo on github for the purpose of sharing codes for bikeshare data analysis from bikeshare.py. 
 
 ### Files used
-Include the files used
+bikeshare.py
+README.md
+.gitignore 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Credits 
+https://github.com/udacity/pdsnd_github
 
