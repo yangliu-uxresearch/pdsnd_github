@@ -61,7 +61,7 @@ def get_filters():
 
     # End step 1
     print("The data you've selected is for:", (city.title(), month.title(), day.title()))
-    print('\nCalculating the patterns for your selected data...\n')
+    print('\nLoading the results of analysis...\n')
     print('_'*40)
     return city, month, day
 
